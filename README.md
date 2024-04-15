@@ -22,7 +22,7 @@ This is a ```Uint8Array``` object containing the data to be digested.
 
 ### Return value
 
-Not a promise, a ```Uint8Array``` object containing the digest;
+Not a promise, a ```Uint8Array``` object containing the digest.
 
 ## Example
 
