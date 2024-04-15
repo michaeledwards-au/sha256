@@ -6,7 +6,7 @@ Just vanilla JS here, and I have tested it in the browser, Deno and NodeJs. Not 
 
 I have optimised as best as I can, maybe someone else can make it better.
 
-I have commented the crap out of it, I don't usually comment code and instead use better variable naming and smaller functions with appropriate naming. But because speed is important with stuff like this, I went big.
+I have commented the crap out of it, I don't usually comment code and instead use better variable naming and smaller functions with appropriate naming. But because speed is important with stuff like this, I went big and verbose.
 
 ## Syntax
 
