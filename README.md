@@ -39,10 +39,8 @@ console.log(hex);
 
 // OUTPUT:
 // 34ac58cafae9456c6e66fbe68bcef8da7a40624b8795896a26e1db37a65e919f
+```
 
 ### example.html
 
 I have included a really simple page with two text areas where you can enter plaintext string data and get digest updated in real-time.
-```
-
-
