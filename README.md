@@ -31,6 +31,7 @@ This example encodes a message, then calulates its SHA-256 digest, then logs the
 ```
 const data = (new TextEncoder()).encode("i really dont like promises");
 const digest = digest_sha256(data);
+
 const hex = digest.reduce(function (hex, byte) { return hex+(byte<0x10?"0":"")+byte.toString(16); }, "");
 console.log(hex);
 
